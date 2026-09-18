@@ -1,4 +1,4 @@
-git# C++ Learning Journey
+# C++ Learning Journey
 
 This repository documents my C++ learning journey through exercises, debugging practice, and course labs.
 
